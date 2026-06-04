@@ -51,3 +51,4 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
      ```
 
 ¡Listo! Con esto habrás completado la práctica de control de versiones.
+Estudiante: Eduardo Urroz - Hora: 2:20 PM
